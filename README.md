@@ -31,8 +31,6 @@ Transmission System Operators (TSOs) require reliable 7-day-ahead demand project
 
 ## 🚀 Getting Started
 
-
-
 1. Clone the repository:
 ```bash
 git clone [https://github.com/](https://github.com/chenchu-906/german-grid-load-forecasting.git
