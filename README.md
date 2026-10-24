@@ -31,9 +31,7 @@ Transmission System Operators (TSOs) require reliable 7-day-ahead demand project
 
 ## 🚀 Getting Started
 
-1. Clone repository:
-   ```bash
-### How to Run
+
 
 1. Clone the repository:
 ```bash
