@@ -24,11 +24,10 @@ Transmission System Operators (TSOs) require reliable 7-day-ahead demand project
 
 | Model | Bias (MW) | MAE (MW) | RMSE (MW) | MAPE (%) |
 | :--- | :---: | :---: | :---: | :---: |
-| **Moving Average (24h)** | +2,150 | 8,920 | 10,450 | 16.4% |
-| **Seasonal Profile** | -4,009 | 4,009 | 5,120 | 7.4% |
-| **LightGBM (P50)** | **-320** | **1,980** | **2,450** | **3.8%** |
+| **Moving Average (24h)** | +2,150 | 8,119 | 9288.33 | 16.4% |
+| **Seasonal Profile** | -4,009 | 4,009 | 4188.57 | 7.38% |
+| **LightGBM (P50)** | **-2125.98** | **2125.98** | **2296** | **3.95%** |
 
-*(Note: Replace sample benchmark metrics with your notebook's exact output table)*
 
 ## 🚀 Getting Started
 
